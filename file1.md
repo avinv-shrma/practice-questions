@@ -15,4 +15,12 @@ Question1:
     // write code here
     // return the output, do not use console.log
 
-    }
+
+
+
+
+    const ans = //Edit this section to call the function you made//
+    console.log(ans);
+    // Give num1 and num2 as 6 and 3 respectively in the input section separated by a comma and then run the code to check the output
+
+
